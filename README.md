@@ -5,4 +5,4 @@
 - 💬 Ask me about NGINX and Ansible
 - 📫 How to reach me: https://www.nicolas-simond.ch/
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=stylersnico)](https://github.com/stylersnico/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=stylersnico)](https://github.com/ryo-ma/github-profile-trophy)
